@@ -51,7 +51,3 @@ class BolsaCotacao {
   }
 }
 
-echo "<pre>";
-print_r(BolsaCotacao::getCotacoes());
-echo "</pre>";
-?>
