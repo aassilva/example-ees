@@ -49,9 +49,6 @@ class BolsaCotacao {
     //$data->USD->name
     return $data;
   }
-  
-  echo "<pre>";
-    print_r(BolsaCotacao::getCotacoes());
-  echo "</pre>";
+ 
 }
 
